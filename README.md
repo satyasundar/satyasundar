@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi there !! I am Satya Nayak.<br>I am a full stack developer on WEB2 and WEB3 from India
+Hi there !! I am Satya Nayak.<br>I work on Data Engineering with mordern tech stack like Lakehouse architecture, open dataformat etc.
 
 
 ## 🌐 Socials:

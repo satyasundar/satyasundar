@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi there !! I am Satya Nayak.<br>I work on Data Engineering with mordern tech stack like Lakehouse architecture, open dataformat etc.
+Hi there !! I am Satya Nayak.<br> In the past I have worked on Web2 and Web3 full stack applications. 
+Currently I am working on Data Engineering with mordern tech stack like Lakehouse architecture, open dataformat etc.
 
 
 ## 🌐 Socials:

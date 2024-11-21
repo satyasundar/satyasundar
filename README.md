@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hi there !! I am Satya Nayak.<br> In the past I have worked on Web2, Web3, full stack applications and Data Engineering stack. <br>
-Currently I am working on Data & AI fullstack whcih means from Data Preparation to deploy AI application.
+Currently I am working on Data & AI fullstack i.e. from Data Preparation to Deploy AI application on cloud.
 
 
 ## 🌐 Socials:
